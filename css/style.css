@@ -1,0 +1,62 @@
+header {
+    background-color: chartreuse;
+    height: 100px;
+    text-align: center;
+}
+h1 {
+    color: #48a99a;
+}
+
+
+.vip {
+    background-color: black;
+    color: gold;
+    font-size: 25px;
+}
+#subtitulo {
+    text-align: center;
+    letter-spacing: 15px;
+    word-spacing: 40px;
+    color: #911b1d;
+}
+#unorder {
+    border: dotted 3px hotpink;
+}
+#unorder > li {
+    color: blue;
+}
+
+body {
+    background-image: url("../image/flower.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right center;
+}
+
+/** {
+    border: solid 5px #911b1d ;
+    padding: 10px;
+    margin: 10px;
+}*/
+
+#what-say {
+    text-align: center;
+    font-family: Arial;
+    font-size: 35px;
+    color: #474c49;
+    letter-spacing: 3px;
+    word-spacing: 15px;
+    margin-top: 100px;
+}
+.p-news {
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+    color: #6f7471;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 28px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
